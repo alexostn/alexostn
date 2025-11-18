@@ -2,7 +2,6 @@
 
 △ Student at **École 42** (Core Curriculum in progress)  
 □ Focus: Systems Programming (C/C++), HTTP servers, Docker/DevOps
-
 ○ Creative Technologist | Architecture + Code
 
 ## Current Projects
