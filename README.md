@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Alex,
 
-<!--
-**alexostn/alexostn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+△ Student at **École 42** (Core Curriculum in progress)  
+□ Focus: Systems Programming (C/C++), HTTP servers, Docker/DevOps 
+○ Creative Technologist | Architecture + Code
 
-Here are some ideas to get you started:
+## Current Projects
+- **Webserv** — HTTP server from scratch (C++) *(planned)*  
+- **Inception** — Docker infrastructure (DevOps) *(planned)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+- [libft_decoded]([link](https://github.com/alexostn/libft_decoded)) — Visual metaphors for C standard library functions
+- **miniRT** — 3D raytracer in C *(code showcase in preparation)*
+ 🌐 Available for internships from June 2026
+
