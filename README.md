@@ -6,7 +6,7 @@
 🧬 Creative Technologist | Architecture + Code
 
 ## Current Projects
-- **Webserv** — HTTP server from scratch (C++) *(planned)*  
+- **ft_irc** — HTTP server from scratch (C++) *(planned)*  
 - **Inception** — Docker infrastructure (DevOps) *(planned)*
 
 ## Featured Work
