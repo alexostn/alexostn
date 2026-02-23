@@ -1,6 +1,7 @@
-## Hi I'm Alex,
+## Hi I'm Alex
 
    Student at **École 42** (Core Curriculum in progress)  
+   
 🧬 Creative Technologist | Architecture + Code
 
 🔴 Stack: C · C++ · Docker · Linux · Git · HTTP/REST  
