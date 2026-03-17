@@ -4,12 +4,12 @@
    
 🧬 Creative Technologist | Architecture + Code
 
-🔴 Stack: C · C++ · Docker · Linux · Git · HTTP/REST  
+Stack: C · C++ · Docker · Linux · Git · HTTP/REST  
 🧪 Learning: Kubernetes · Terraform · Node.js
 
 ## Current Projects
-- **ft_irc** — TCP server from scratch (C++)
-- **Inception** — Docker infrastructure (DevOps) (in active development)
+- **ft_irc** — TCP server from scratch (C++98)
+- **Inception** — Docker multi-container infrastructure
 
 
 
