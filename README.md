@@ -18,5 +18,5 @@
 
 - **miniRT** — 3D raytracer in C *(code showcase in preparation)*
 
- 🌐 Available for internships from March/April 2026 (flexible)
+ 🌐  Open to alternance · France · Audio/Media
 
