@@ -10,6 +10,7 @@ Stack: C · C++ · Docker · Linux · Git · HTTP/REST
 ## Current Projects
 - **ft_irc** — TCP server from scratch (C++98)
 - **Inception** — Docker multi-container infrastructure
+- **fip-hifi-over-lte** — resilient HiFi stream over LTE (bash · mpv · PipeWire)
 
 
 
